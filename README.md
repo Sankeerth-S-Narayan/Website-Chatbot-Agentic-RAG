@@ -1,5 +1,7 @@
 # Stanford Medical Facilities: Documentation Crawler and RAG Agent
 
+![Stanford Medical Facilities](image.png)
+
 An intelligent documentation crawler and RAG (Retrieval-Augmented Generation) agent built using Pydantic AI and Supabase. The agent can crawl Stanford Medical Facilities documentation websites, store content in a vector database, and provide intelligent answers to user questions by retrieving and analyzing relevant documentation chunks.
 
 ## Features
